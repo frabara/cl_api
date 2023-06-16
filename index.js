@@ -5,7 +5,7 @@ const cors = require('cors');
 
 app.use(cors({
     // origin: '*',
-    origin: ['https://indracompany.com', 'http://localhost:8080'],
+    origin: ['https://indracompany.com', 'http://localhost:8080', 'https://ouc-extwork-web.herokuapp.com'],
     methods: ['GET','POST','DELETE','UPDATE','PUT','PATCH']
 }));
 
