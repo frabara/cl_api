@@ -9,6 +9,10 @@ app.use(cors({
     methods: ['GET','POST','DELETE','UPDATE','PUT','PATCH']
 }));
 
+app.get('/', (req, res) => {
+    res.send('Hello from Node.js!')
+});
+
 app.get('/services/dashboard', (req, res) => {
     var dashboardData = require('./data/dashboard.json');
     res.send(dashboardData);
