@@ -1,0 +1,52 @@
+{
+    "operationList": [
+        {
+            "liqDate": 1677556800000,
+            "usedAmount": 1250,
+            "reference": "",
+            "companyId": 1,
+            "creationMA": "A",
+            "liq": "LIQ20230228",
+            "genDate": 1672632000000,
+            "actType": "Lecturas",
+            "company": "Contratista LECTURAS",
+            "id": 1,
+            "prevAmount": 10000,
+            "reviewedAmount": 4500,
+            "status": "Liquidada",
+            "statusCode": "LEC10"
+        },
+        {
+            "liqDate": 1677556800000,
+            "usedAmount": 12500,
+            "reference": "",
+            "companyId": 1,
+            "creationMA": "A",
+            "liq": "LIQ20230228",
+            "genDate": 1676433600000,
+            "actType": "Lecturas",
+            "company": "Contratista LECTURAS",
+            "id": 2,
+            "prevAmount": 25750,
+            "reviewedAmount": 8700,
+            "status": "Liquidada",
+            "statusCode": "LEC10"
+        },
+        {
+            "liqDate": 1677556800000,
+            "usedAmount": 100,
+            "reference": "",
+            "companyId": 1,
+            "creationMA": "A",
+            "liq": "LIQ20230228",
+            "genDate": 1676433600000,
+            "actType": "Lecturas",
+            "company": "Contratista LECTURAS",
+            "id": 3,
+            "prevAmount": 600,
+            "reviewedAmount": 400,
+            "status": "Aprobada",
+            "statusCode": "APR10"
+        }
+    ]
+}

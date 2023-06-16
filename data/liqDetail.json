@@ -1,0 +1,14 @@
+{
+    "liquidations": [
+        {
+            "entRef": "4444",
+            "materials": "",
+            "dueDate": 1679086854076,
+            "jobs": "00:00",
+            "type": "OT-Lit-2023",
+            "proposedAmount": 45000,
+            "revisedAmount": 45000,
+            "status": "Activo"
+        }
+    ]
+}

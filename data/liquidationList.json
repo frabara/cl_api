@@ -1,0 +1,56 @@
+{
+    "liquidationList": [
+        {
+            "company": "Contrata_Cobros",
+            "companyId": 1,
+            "codeService": "CONT-001-10",
+            "typeService": "Actividades Comerciales",
+            "liquidationDate": 1649044800000,
+            "amountActions": 700,
+            "amountAdministrativeExpenses": 600,
+            "amountBonuses": 800,
+            "amountPenalties": 10,
+            "totalLiquidation": 2090,
+            "accountingAccount": "00000021"
+        },
+        {
+            "totalLiquidation": 2090,
+            "companyId": 2,
+            "typeService": "Actividades Comerciales",
+            "amountAdministrativeExpenses": 600,
+            "accountingAccount": "00000021",
+            "amountBonuses": 800,
+            "company": "Contrata_Cobros",
+            "amountPenalties": 10,
+            "amountActions": 700,
+            "liquidationDate": 1649044800000,
+            "codeService": "CONT-001-10"
+        },
+        {
+            "totalLiquidation": 2060,
+            "companyId": 3,
+            "typeService": "Cobros en Oficina",
+            "amountAdministrativeExpenses": 850,
+            "accountingAccount": "00000027",
+            "amountBonuses": 560,
+            "company": "Distribuidor X",
+            "amountPenalties": 50,
+            "amountActions": 900,
+            "liquidationDate": 1672459200000,
+            "codeService": "SERV-145-10"
+        },
+        {
+            "totalLiquidation": 1880,
+            "companyId": 4,
+            "typeService": "Distribución",
+            "amountAdministrativeExpenses": 125,
+            "accountingAccount": "00000024",
+            "amountBonuses": 300,
+            "company": "Empresa A",
+            "amountPenalties": 65,
+            "amountActions": 1520,
+            "liquidationDate": 1577851200000,
+            "codeService": "PROV-154-10"
+        }
+    ]
+}

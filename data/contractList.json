@@ -1,0 +1,44 @@
+{
+    "contractList": [
+        {
+            "actCom": 0,
+            "extCode": "C.2023",
+            "remainingBudget": 10000,
+            "description": "Cobros en agentes externos y oficinas de la empresa 2023",
+            "totalBudget": 10000,
+            "cobOfi": 1,
+            "currentBudget": 100,
+            "endDate": null,
+            "dist": 0,
+            "liquidatedBudget": -1000,
+            "ots": 0,
+            "cobExt": 1,
+            "lect": 0,
+            "company": "Contrata_Cobros",
+            "companyCode": "CONTCOB121",
+            "id": 1,
+            "startDate": 1672545600000,
+            "status": "Vigente"
+        },
+        {
+            "actCom": 1,
+            "extCode": "C.2014",
+            "remainingBudget": 10000,
+            "description": "Cobros en agentes",
+            "totalBudget": 10000,
+            "cobOfi": 0,
+            "currentBudget": 100,
+            "endDate": null,
+            "dist": 0,
+            "liquidatedBudget": -1000,
+            "ots": 0,
+            "cobExt": 1,
+            "lect": 0,
+            "company": "Proveedor C",
+            "companyCode": "PROV0002",
+            "id": 2,
+            "startDate": 1680148800000,
+            "status": "Vigente"
+        }
+    ]
+}

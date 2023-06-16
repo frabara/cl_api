@@ -1,0 +1,75 @@
+{
+    "pieInfo": {
+        "actuation": [
+            {
+                "name": "Actuaciones Liquidadas",
+                "value": 524
+            },
+            {
+                "name": "Actuaciones Pte. Revisión",
+                "value": 150
+            },
+            {
+                "name": "Actuaciones Pte. Liquidación",
+                "value": 235
+            }
+        ],
+        "budget": [
+            {
+                "name": "Presupuesto Liquidado",
+                "value": 25
+            },
+            {
+                "name": "Presupuesto Pendiente",
+                "value": 45
+            }
+        ]
+    },
+    "kpiInfo": {
+        "servsSubContr": "15",
+        "pendAct": "235",
+        "liqAct": "524",
+        "pendRevAct": "150"
+    },
+    "detailData": [
+        {
+            "actLiqPendRev": "100",
+            "liqBudget": "100",
+            "serviceType": "Actividades Comerciales",
+            "remainingBudget": "100",
+            "totalBudget": "100",
+            "currentBudget": "100",
+            "center": "Test",
+            "actLiqPend": "100",
+            "company": "Contrata_Cobros",
+            "serviceDescription": "Atención al público y Ots del área SUR",
+            "actLiq": "100"
+        },
+        {
+            "actLiqPendRev": "100",
+            "liqBudget": "100",
+            "serviceType": "Actividades Comerciales",
+            "remainingBudget": "100",
+            "totalBudget": "100",
+            "currentBudget": "100",
+            "center": "Test",
+            "actLiqPend": "100",
+            "company": "Empresa A",
+            "serviceDescription": "Cobros en agentes externos y oficinas de la empresa 2023",
+            "actLiq": "100"
+        },
+        {
+            "actLiqPendRev": "100",
+            "liqBudget": "100",
+            "serviceType": "Actividades Comerciales",
+            "remainingBudget": "100",
+            "totalBudget": "100",
+            "currentBudget": "100",
+            "center": "Test",
+            "actLiqPend": "100",
+            "company": "Empresa A",
+            "serviceDescription": "Cobros en agentes externos y oficinas de la empresa 2023",
+            "actLiq": "100"
+        }
+    ]
+}

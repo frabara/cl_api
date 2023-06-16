@@ -1,0 +1,24 @@
+{
+    "companyList": [
+        {
+            "nameType": "Contrata_Cobros",
+            "codevelop": "CONTCOB121"
+        },
+        {
+            "nameType": "Empresa A",
+            "codevelop": "EMP00002"
+        },
+        {
+            "nameType": "Proveedor C",
+            "codevelop": "PROV0002"
+        },
+        {
+            "nameType": "Empresa Suministradora",
+            "codevelop": "EMPSUM001"
+        },
+        {
+            "nameType": "Distribuidor X",
+            "codevelop": "DISTX111000"
+        }
+    ]
+}

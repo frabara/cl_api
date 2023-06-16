@@ -1,0 +1,78 @@
+{
+    "materials": [
+        {
+            "materialID": 1,
+            "unitPrice": 10,
+            "endDate": null,
+            "description": "Brida con Rosca 50 mm",
+            "type": "1",
+            "startDate": null
+        },
+        {
+            "materialID": 2,
+            "unitPrice": 50,
+            "endDate": null,
+            "description": "Codo PVC 100 mm",
+            "type": "1",
+            "startDate": null
+        },
+        {
+            "materialID": 3,
+            "unitPrice": 10,
+            "endDate": null,
+            "description": "Concreto Bolsa 5 Kg",
+            "type": "1",
+            "startDate": null
+        },
+        {
+            "materialID": 4,
+            "unitPrice": 10,
+            "endDate": null,
+            "description": "Niple",
+            "type": "1",
+            "startDate": null
+        },
+        {
+            "materialID": 5,
+            "unitPrice": 10,
+            "endDate": null,
+            "description": "Medidor de 15 mm",
+            "type": "1",
+            "startDate": null
+        }
+    ],
+    "jobs": [
+        {
+            "jobID": 1,
+            "unitPrice": 10,
+            "endDate": null,
+            "job": "DISTRIBUCIÓN ELECTRÓNICA DE COMUNICACIONES",
+            "type": "Distribución",
+            "startDate": null
+        },
+        {
+            "jobID": 2,
+            "unitPrice": 25,
+            "endDate": null,
+            "job": "DISTRIBUCIÓN PRESENCIAL DE COMUNICACIONES CON CÉDULA DE NOTIFICACIÓN URGENTE",
+            "type": "Distribución",
+            "startDate": null
+        },
+        {
+            "jobID": 3,
+            "unitPrice": 50,
+            "endDate": null,
+            "job": "Instalación de Medidor",
+            "type": "Ots",
+            "startDate": null
+        },
+        {
+            "jobID": 4,
+            "unitPrice": 58,
+            "endDate": null,
+            "job": "Cambio de emplazamiento",
+            "type": "Ots",
+            "startDate": null
+        }
+    ]
+}

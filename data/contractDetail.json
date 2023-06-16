@@ -1,0 +1,33 @@
+{
+    "servicesList": [
+        {
+            "serviceType": "COBCOMEXT001",
+            "serviceTypeDescription": "Comisiones de Cobros Externos",
+            "inProgress": 100,
+            "restBudget": 100,
+            "totalBudget": 100,
+            "endDate": null,
+            "description": "Description Test",
+            "liquidated": 100,
+            "id": 1,
+            "serviceID": 144444,
+            "startDate": 1672545600000,
+            "status": "VIG001",
+            "statusDesctiption": "Vigente",
+            "liqPeriod": "men001",
+            "liqPeriodDescription": "Mensual",
+            "orgArea": "pru01",
+            "adminCosts": 50,
+            "indBenef": 100,
+            "billConcept": "Test",
+            "ledgerAccount": "A001B2144",
+            "lastLiqDate": 1686865749205,
+            "lastLiqPrevDate": null,
+            "manualsActs": false,
+            "authAprove": false,
+            "includeOTsImp": true,
+            "finishOnSpendBudget": true,
+            "alowPenalties": true
+        }
+    ]
+}

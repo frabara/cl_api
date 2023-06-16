@@ -1,0 +1,102 @@
+{
+    "contractStatus": [
+        {
+            "nameType": "Vigente",
+            "codevelop": "VIG002"
+        },
+        {
+            "nameType": "Cancelado",
+            "codevelop": "CAN001"
+        },
+        {
+            "nameType": "Anulado",
+            "codevelop": "AN001"
+        }
+    ],
+    "serviceStatus": [
+        {
+            "nameType": "Vigente",
+            "codevelop": "VIG001"
+        },
+        {
+            "nameType": "Cancelado",
+            "codevelop": "CAN001"
+        },
+        {
+            "nameType": "Finalizado",
+            "codevelop": "FIN001"
+        }
+    ],
+    "servicesType": [
+        {
+            "nameType": "OTs",
+            "codevelop": "OT001"
+        },
+        {
+            "nameType": "Actividades Comerciales",
+            "codevelop": "ACTCOM001"
+        },
+        {
+            "nameType": "Cobros en Oficina",
+            "codevelop": "COBOF10"
+        },
+        {
+            "nameType": "Comisiones de Cobros Externos",
+            "codevelop": "COBCOMEXT001"
+        },
+        {
+            "nameType": "Lecturas",
+            "codevelop": "LECT10"
+        },
+        {
+            "nameType": "Distribución",
+            "codevelop": "DIST1010"
+        }
+    ],
+    "company": [
+        {
+            "nameType": "Contrata_Cobros",
+            "codevelop": "CONTCOB121"
+        },
+        {
+            "nameType": "Empresa A",
+            "codevelop": "EMP00002"
+        },
+        {
+            "nameType": "Proveedor C",
+            "codevelop": "PROV0002"
+        },
+        {
+            "nameType": "Empresa Suministradora",
+            "codevelop": "EMPSUM001"
+        },
+        {
+            "nameType": "Distribuidor X",
+            "codevelop": "DISTX111000"
+        }
+    ],
+    "liqPeriod": [
+        {
+           "codevelop": "men001",
+            "nameType": "Mensual"
+        },
+        {
+            "codevelop": "dia002",
+             "nameType": "Diaria"
+        },
+        {
+            "codevelop": "anu003",
+             "nameType": "Anual"
+        },
+        {
+            "codevelop": "quin004",
+             "nameType": "Quincenal"
+        }
+    ],
+    "orgArea": [
+        {
+            "codevelop": "pru01",
+             "nameType": "Prueba"
+        }
+    ]
+}

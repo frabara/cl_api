@@ -1,0 +1,93 @@
+{
+    "companyList": [
+        {
+            "id": 0,
+            "label": "TODOS",
+            "value": "ALL"
+        },
+        {
+            "id": 1,
+            "label": "Contratista LECTURAS",
+            "value": 1
+        },
+        {
+            "id": 2,
+            "label": "Proveedor de Servicios e Instalaciones",
+            "value": 2
+        },
+        {
+            "id": 3,
+            "label": "Cobros Externos",
+            "value": 3
+        },
+        {
+            "id": 4,
+            "label": "Servicios de Call Center",
+            "value": 4
+        }
+    ],
+    "typeServiceList": [
+        {
+            "id": 0,
+            "label": "TODOS",
+            "value": "ALL"
+        },
+        {
+            "id": 1,
+            "label": "Órdenes de Trabajo",
+            "value": 1
+        },
+        {
+            "id": 2,
+            "label": "Actividades Comerciales",
+            "value": 2
+        },
+        {
+            "id": 3,
+            "label": "Cobros en Oficinas",
+            "value": 3
+        },
+        {
+            "id": 4,
+            "label": "Comisiones de Cobros externos",
+            "value": 4
+        },
+        {
+            "id": 5,
+            "label": "Lecturas",
+            "value": 5
+        },
+        {
+            "id": 6,
+            "label": "Distribución",
+            "value": 6
+        }
+    ],
+    "statusList": [
+        {
+            "id": 0,
+            "label": "TODOS",
+            "value": "ALL"
+        },
+        {
+            "id": 1,
+            "label": "Pendiente de Revisión",
+            "value": 1
+        },
+        {
+            "id": 2,
+            "label": "Aprobada",
+            "value": 2
+        },
+        {
+            "id": 3,
+            "label": "Liquidada",
+            "value": 3
+        },
+        {
+            "id": 4,
+            "label": "Cancelada",
+            "value": 4
+        }
+    ]
+}
