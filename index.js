@@ -70,7 +70,7 @@ app.get('/services/liquidations/operations/:liqId', (req, res) => {
 
 
 
-app.get('/services/operationsHeader', (req, res) => {
+app.get('/services/operations/operationsHeader', (req, res) => {
     var operationCompaniesData = require('./data/operationHeaders.json');
     res.send(operationCompaniesData);
 });
