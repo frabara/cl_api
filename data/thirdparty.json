@@ -43,14 +43,6 @@
         {
             "nameType": "Comisiones de Cobros Externos",
             "codevelop": "COBCOMEXT001"
-        },
-        {
-            "nameType": "Lecturas",
-            "codevelop": "LECT10"
-        },
-        {
-            "nameType": "Distribución",
-            "codevelop": "DIST1010"
         }
     ],
     "company": [
