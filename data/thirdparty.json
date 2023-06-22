@@ -95,8 +95,16 @@
     ],
     "orgArea": [
         {
-            "codevelop": "pru01",
-             "nameType": "Prueba"
+            "codevelop": "CC",
+             "nameType": "Centro de Cobro"
+        },
+        {
+            "codevelop": "OC",
+             "nameType": "Oficina Comercial"
+        },
+        {
+            "codevelop": "CT",
+             "nameType": "Centro Técnico"
         }
     ]
 }
