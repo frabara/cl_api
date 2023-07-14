@@ -2,25 +2,25 @@
     "pieInfo": {
         "actuation": [
             {
-                "name": "Actuaciones Liquidadas",
+                "name": "Liquidadas",
                 "value": 524
             },
             {
-                "name": "Actuaciones Pte. Revisión",
+                "name": "Pendientes",
                 "value": 150
             },
             {
-                "name": "Actuaciones Pte. Liquidación",
+                "name": "Pendientes de liquidación",
                 "value": 235
             }
         ],
         "budget": [
             {
-                "name": "Presupuesto Liquidado",
+                "name": "Liquidado",
                 "value": 25
             },
             {
-                "name": "Presupuesto Pendiente",
+                "name": "Pendiente",
                 "value": 45
             }
         ]
